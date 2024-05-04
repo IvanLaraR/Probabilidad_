@@ -35,3 +35,4 @@ clima_siguiente = predecir_clima(clima_actual, probabilidades_transicion)
 
 # Imprimimos el resultado
 print("El clima para el siguiente día será:", clima_siguiente)
+
