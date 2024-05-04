@@ -34,3 +34,4 @@ print("Probabilidad de cara en la primera moneda:", prob_cara_m1)
 print("Probabilidad de cara en la segunda moneda:", prob_cara_m2)
 print("Probabilidad de cara en ambas monedas:", prob_cara_m1y2)
 print("¿Las monedas son independientes condicionalmente?", independencia_condicional)
+
