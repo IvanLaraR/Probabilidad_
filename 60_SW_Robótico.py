@@ -28,3 +28,4 @@ distancia_desplazamiento = 5  # Distancia de desplazamiento del robot móvil
 mover_brazo(angulo_brazo)
 controlar_pinza(estado_pinza)
 desplazar_robot(distancia_desplazamiento)
+
